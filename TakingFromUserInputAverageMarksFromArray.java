@@ -15,7 +15,7 @@ public class Array2 {
         for(int i:marks) {
             System.out.print(i +" ");
         }
-        for(int i=0;i< marks.length+1;i++){
+        for(int i:marks){
             sum = sum + i;
         }
         System.out.println();
