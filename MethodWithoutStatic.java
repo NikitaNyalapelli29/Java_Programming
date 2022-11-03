@@ -10,7 +10,7 @@ public class Methods {
 
         Methods obj = new Methods();
         p = obj.mult(3,4);
-        System.out.println(p);
+        System.out.println("Sum of 3 and 4 is: "+p);
 
     }
 }
