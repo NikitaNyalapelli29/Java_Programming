@@ -3,7 +3,7 @@ package basic;
 public class Methods {
     
     int mult(int x, int y){
-        int z =x*y;
+        int z = x * y;
         return z;
     }
     public static void main(String[] args) {
